@@ -88,19 +88,10 @@
   - [LemonTeatw1](https://github.com/LemonTeatw1)
 </details>
 
-<a href="https://github.com/tico88612/devstats-card"><img src="https://devstats.me/?username=tico88612&t=3" /></a>
+<img src="https://github-readme-stats.vercel.app/api?username=nyrahul&hide_title=true&count_private=true&show_icons=true" />
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=tico88612&hide_title=true&count_private=true&show_icons=true" />
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nyrahul&theme=one-dark-pro" alt="GitHub Streak" /></a>
 
 <br>
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tico88612&theme=one-dark-pro" alt="GitHub Streak" /></a>
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=tico88612&theme=flat&no-frame=true&theme=onedark&margin-w=15&column=4" />
-
-
-![](https://hit.yhype.me/github/profile?user_id=17496418)
